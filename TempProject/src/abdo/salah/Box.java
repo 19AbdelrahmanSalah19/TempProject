@@ -1,0 +1,5 @@
+package abdo.salah;
+
+public class Box {
+	static int x = 5 ;
+}
